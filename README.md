@@ -1,4 +1,4 @@
-# Flashcard Generator
+# CramX : Flashcard Generator
 
 ## 📌 Overview
 The **Flashcard Generator** is an AI-powered tool that automates the creation of flashcards from PDFs. It extracts key information, generates structured flashcards, and stores them in a Supabase database, making studying more efficient and interactive.
